@@ -3,6 +3,8 @@
 *.llb
 
 # Shared objects (inc. Windows DLLs)
+.*
+!/.gitignore
 *.dll
 *.so
 *.dylib
