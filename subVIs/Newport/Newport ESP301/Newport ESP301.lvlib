@@ -36,7 +36,7 @@
 			<Item Name="Generate Service Request.vi" Type="VI" URL="../Flow Control &amp; Sequencing/Generate Service Request.vi"/>
 			<Item Name="Get Device Adress.vi" Type="VI" URL="../Flow Control &amp; Sequencing/Get Device Adress.vi"/>
 			<Item Name="Set Device Adress.vi" Type="VI" URL="../Flow Control &amp; Sequencing/Set Device Adress.vi"/>
-			<Item Name="Wait For Motion Stop.vi" Type="VI" URL="../Flow Control &amp; Sequencing/Wait For Motion Stop.vi"/>
+			<Item Name="Wait For Motion Stop.vi" Type="VI" URL="/C/Users/manip-thz/Documents/Controle_Manip_2020/subVIs/Newport/Newport ESP301/Flow Control &amp; Sequencing/Wait For Motion Stop.vi"/>
 			<Item Name="Wait For Position.vi" Type="VI" URL="../Flow Control &amp; Sequencing/Wait For Position.vi"/>
 			<Item Name="Wait.vi" Type="VI" URL="../Flow Control &amp; Sequencing/Wait.vi"/>
 		</Item>
@@ -172,7 +172,7 @@
 			<Item Name="Set Maximum Motor Current.vi" Type="VI" URL="../Motion Device/Set Maximum Motor Current.vi"/>
 			<Item Name="Set Microstep Factor.vi" Type="VI" URL="../Motion Device/Set Microstep Factor.vi"/>
 			<Item Name="Set Motor Type.vi" Type="VI" URL="../Motion Device/Set Motor Type.vi"/>
-			<Item Name="Set Right Travel Limit.vi" Type="VI" URL="../Motion Device/Set Right Travel Limit.vi"/>
+			<Item Name="Set Right Travel Limit.vi" Type="VI" URL="/C/Users/manip-thz/Documents/Controle_Manip_2020/subVIs/Newport/Newport ESP301/Motion Device/Set Right Travel Limit.vi"/>
 			<Item Name="Set Tachometer Gain.vi" Type="VI" URL="../Motion Device/Set Tachometer Gain.vi"/>
 		</Item>
 		<Item Name="Programming" Type="Folder">

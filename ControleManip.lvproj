@@ -32,11 +32,14 @@
 		<Item Name="Controle_Manip_Main_GUI.vi" Type="VI" URL="../Controle_Manip_Main_GUI.vi"/>
 		<Item Name="Cursors4Contrast.vi" Type="VI" URL="/C/Users/manip-thz/Documents/Controle_Manip_2020/subVIs/DataManipulation/Cursors4Contrast.vi"/>
 		<Item Name="Cursors4Contrast_v2.vi" Type="VI" URL="/C/Users/manip-thz/Documents/Controle_Manip_2020/subVIs/DataManipulation/Cursors4Contrast_v2.vi"/>
+		<Item Name="Expectedtime.vi" Type="VI" URL="../subVIs/Globals/Expectedtime.vi"/>
 		<Item Name="FineContrast.vi" Type="VI" URL="../subVIs/Scans/FineContrast.vi"/>
 		<Item Name="LinTFine_Scan.vi" Type="VI" URL="../subVIs/Scans/LinTFine_Scan.vi"/>
+		<Item Name="Newport ESP301.lvlib" Type="Library" URL="../subVIs/Newport/Newport ESP301/Newport ESP301.lvlib"/>
 		<Item Name="NP_General Tree.vi" Type="VI" URL="../subVIs/Newport/NP-General-NPZ-LV6.llb/NP_General Tree.vi"/>
 		<Item Name="PZC_MoveAbs.vi" Type="VI" URL="../subVIs/Newport/PZC_MoveAbs.vi"/>
 		<Item Name="PZCGetPos.vi" Type="VI" URL="../subVIs/Newport/PZCGetPos.vi"/>
+		<Item Name="SampleQuery.vi" Type="VI" URL="../subVIs/Newport/NP-General-NPZ-LV6.llb/SampleQuery.vi"/>
 		<Item Name="Shutter.vi" Type="VI" URL="../subVIs/Kinesis/Shutter.vi"/>
 		<Item Name="Stops.vi" Type="VI" URL="../subVIs/Globals/Stops.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -607,7 +610,7 @@
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Newport ESP301.lvlib" Type="Library" URL="../subVIs/Newport/Newport ESP301/Newport ESP301.lvlib"/>
+			<Item Name="Newport ESP301.lvlib" Type="Library" URL="/C/Users/manip-thz/Documents/Controle_Manip_2020/subVIs/Newport/Newport ESP301/Newport ESP301.lvlib"/>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -624,9 +627,9 @@
 			<Item Name="Read Bool.vi" Type="VI" URL="../../../Desktop/ESP300/ESP300 Interface/Support/Read Bool.vi"/>
 			<Item Name="Read Double.vi" Type="VI" URL="../../../Desktop/ESP300/ESP300 Interface/Support/Read Double.vi"/>
 			<Item Name="ReadCommand.vi" Type="VI" URL="../subVIs/Newport/NP-General-NPZ-LV6.llb/ReadCommand.vi"/>
-			<Item Name="SampleQuery.vi" Type="VI" URL="../subVIs/Newport/NP-General-NPZ-LV6.llb/SampleQuery.vi"/>
 			<Item Name="Send Command.vi" Type="VI" URL="../../../Desktop/ESP300/ESP300 Interface/Support/Send Command.vi"/>
 			<Item Name="SendCommand.vi" Type="VI" URL="../subVIs/Newport/NP-General-NPZ-LV6.llb/SendCommand.vi"/>
+			<Item Name="Set Right Travel Limit.vi" Type="VI" URL="../subVIs/Newport/Newport ESP301/Motion Device/Set Right Travel Limit.vi"/>
 			<Item Name="sub_check_file_exist.vi" Type="VI" URL="../subVIs/useful/sub_check_file_exist.vi"/>
 			<Item Name="sub_winspec_acquire_ccd.vi" Type="VI" URL="../subVIs/WINSPEC/sub_winspec_acquire_ccd.vi"/>
 			<Item Name="sub_winspec_get_ccd_parameters.vi" Type="VI" URL="../subVIs/WINSPEC/sub_winspec_get_ccd_parameters.vi"/>
@@ -648,6 +651,7 @@
 			<Item Name="TopLevelRelativeToAbsolutePath.vi" Type="VI" URL="/C/Program Files/National Instruments/LabVIEW 2019/examples/UPVI/LVHDF5/basic/subVIs/TopLevelRelativeToAbsolutePath.vi"/>
 			<Item Name="uc480DotNet.dll" Type="Document" URL="/C/Program Files/Thorlabs/Scientific Imaging/DCx Camera Support/Develop/DotNet/uc480DotNet.dll"/>
 			<Item Name="Uninit Communication.vi" Type="VI" URL="../../../Desktop/ESP300/ESP300 Interface/Uninit Communication.vi"/>
+			<Item Name="Wait For Motion Stop.vi" Type="VI" URL="../subVIs/Newport/Newport ESP301/Flow Control &amp; Sequencing/Wait For Motion Stop.vi"/>
 			<Item Name="Write2LogFile.vi" Type="VI" URL="../subVIs/FilePath, Save/Write2LogFile.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
