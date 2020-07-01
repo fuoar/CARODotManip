@@ -42,6 +42,7 @@
 		<Item Name="SampleQuery.vi" Type="VI" URL="../subVIs/Newport/NP-General-NPZ-LV6.llb/SampleQuery.vi"/>
 		<Item Name="Shutter.vi" Type="VI" URL="../subVIs/Kinesis/Shutter.vi"/>
 		<Item Name="Stops.vi" Type="VI" URL="../subVIs/Globals/Stops.vi"/>
+		<Item Name="unnecessary_multiplication.vi" Type="VI" URL="../subVIs/Globals/unnecessary_multiplication.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="TL4000 Beep.vi" Type="VI" URL="/&lt;instrlib&gt;/TL4000/TL4000.llb/TL4000 Beep.vi"/>
@@ -592,6 +593,7 @@
 			<Item Name="Exp_CCD_GetAcdSpeed.vi" Type="VI" URL="../Ligth Field/lightfield-automation-labview/VIs/Experiment/CCD/Exp_CCD_GetAcdSpeed.vi"/>
 			<Item Name="Exp_CCD_GetTemperature.vi" Type="VI" URL="../Ligth Field/lightfield-automation-labview/VIs/Experiment/CCD/Exp_CCD_GetTemperature.vi"/>
 			<Item Name="Format NN Parameter.vi" Type="VI" URL="../../../Desktop/ESP300/ESP300 Interface/Support/Format NN Parameter.vi"/>
+			<Item Name="Format&amp;SaveDataClean.vi" Type="VI" URL="../subVIs/FilePath, Save/Format&amp;SaveDataClean.vi"/>
 			<Item Name="Format&amp;SaveDataWithAttributes.vi" Type="VI" URL="../subVIs/FilePath, Save/Format&amp;SaveDataWithAttributes.vi"/>
 			<Item Name="GetStatusByte.vi" Type="VI" URL="../subVIs/Newport/NP-General-NPZ-LV6.llb/GetStatusByte.vi"/>
 			<Item Name="Go2Angle.vi" Type="VI" URL="../subVIs/Scans/Go2Angle.vi"/>
