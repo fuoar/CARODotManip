@@ -583,6 +583,7 @@
 			<Item Name="Create evenly spaced array.vi" Type="VI" URL="../subVIs/Generic_SubVI/Create evenly spaced array.vi"/>
 			<Item Name="Create Instrument Channel.vi" Type="VI" URL="../subVIs/Newport/NP-General-NPZ-LV6.llb/Create Instrument Channel.vi"/>
 			<Item Name="CreatePath&amp;FileName.vi" Type="VI" URL="../subVIs/FilePath, Save/CreatePath&amp;FileName.vi"/>
+			<Item Name="CreatePath&amp;FileName_noParamsinFileName.vi" Type="VI" URL="../subVIs/FilePath, Save/CreatePath&amp;FileName_noParamsinFileName.vi"/>
 			<Item Name="CreatePath.vi" Type="VI" URL="../subVIs/FilePath, Save/CreatePath.vi"/>
 			<Item Name="ctl_OperatingMode.ctl" Type="VI" URL="../subVIs/Newport/NP-General-NPZ-LV6.llb/ctl_OperatingMode.ctl"/>
 			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
