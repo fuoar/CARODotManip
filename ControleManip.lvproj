@@ -42,6 +42,8 @@
 		<Item Name="SampleQuery.vi" Type="VI" URL="../subVIs/Newport/NP-General-NPZ-LV6.llb/SampleQuery.vi"/>
 		<Item Name="Shutter.vi" Type="VI" URL="../subVIs/Kinesis/Shutter.vi"/>
 		<Item Name="Stops.vi" Type="VI" URL="../subVIs/Globals/Stops.vi"/>
+		<Item Name="TLPM Close.vi" Type="VI" URL="/&lt;instrlib&gt;/TLPM/TLPM.llb/TLPM Close.vi"/>
+		<Item Name="TLPM Get Resource Name.vi" Type="VI" URL="/&lt;instrlib&gt;/TLPM/TLPM.llb/TLPM Get Resource Name.vi"/>
 		<Item Name="unnecessary_multiplication.vi" Type="VI" URL="../subVIs/Globals/unnecessary_multiplication.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
@@ -59,9 +61,7 @@
 				<Item Name="TL4000 Switch LD Output.vi" Type="VI" URL="/&lt;instrlib&gt;/TL4000/TL4000.llb/TL4000 Switch LD Output.vi"/>
 				<Item Name="TL4000 Switch TEC Output.vi" Type="VI" URL="/&lt;instrlib&gt;/TL4000/TL4000.llb/TL4000 Switch TEC Output.vi"/>
 				<Item Name="TL4000 VXIpnp Error Converter.vi" Type="VI" URL="/&lt;instrlib&gt;/TL4000/TL4000.llb/TL4000 VXIpnp Error Converter.vi"/>
-				<Item Name="TLPM Close.vi" Type="VI" URL="/&lt;instrlib&gt;/TLPM/TLPM.llb/TLPM Close.vi"/>
 				<Item Name="TLPM Find Resources.vi" Type="VI" URL="/&lt;instrlib&gt;/TLPM/TLPM.llb/TLPM Find Resources.vi"/>
-				<Item Name="TLPM Get Resource Name.vi" Type="VI" URL="/&lt;instrlib&gt;/TLPM/TLPM.llb/TLPM Get Resource Name.vi"/>
 				<Item Name="TLPM Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/TLPM/TLPM.llb/TLPM Initialize.vi"/>
 				<Item Name="TLPM Measure Power.vi" Type="VI" URL="/&lt;instrlib&gt;/TLPM/TLPM.llb/TLPM Measure Power.vi"/>
 				<Item Name="TLPM Set Wavelength.vi" Type="VI" URL="/&lt;instrlib&gt;/TLPM/TLPM.llb/TLPM Set Wavelength.vi"/>
@@ -613,7 +613,6 @@
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Newport ESP301.lvlib" Type="Library" URL="/C/Users/manip-thz/Documents/Controle_Manip_2020/subVIs/Newport/Newport ESP301/Newport ESP301.lvlib"/>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -632,7 +631,6 @@
 			<Item Name="ReadCommand.vi" Type="VI" URL="../subVIs/Newport/NP-General-NPZ-LV6.llb/ReadCommand.vi"/>
 			<Item Name="Send Command.vi" Type="VI" URL="../../../Desktop/ESP300/ESP300 Interface/Support/Send Command.vi"/>
 			<Item Name="SendCommand.vi" Type="VI" URL="../subVIs/Newport/NP-General-NPZ-LV6.llb/SendCommand.vi"/>
-			<Item Name="Set Right Travel Limit.vi" Type="VI" URL="../subVIs/Newport/Newport ESP301/Motion Device/Set Right Travel Limit.vi"/>
 			<Item Name="sub_check_file_exist.vi" Type="VI" URL="../subVIs/useful/sub_check_file_exist.vi"/>
 			<Item Name="sub_winspec_acquire_ccd.vi" Type="VI" URL="../subVIs/WINSPEC/sub_winspec_acquire_ccd.vi"/>
 			<Item Name="sub_winspec_get_ccd_parameters.vi" Type="VI" URL="../subVIs/WINSPEC/sub_winspec_get_ccd_parameters.vi"/>
@@ -654,7 +652,6 @@
 			<Item Name="TopLevelRelativeToAbsolutePath.vi" Type="VI" URL="/C/Program Files/National Instruments/LabVIEW 2019/examples/UPVI/LVHDF5/basic/subVIs/TopLevelRelativeToAbsolutePath.vi"/>
 			<Item Name="uc480DotNet.dll" Type="Document" URL="/C/Program Files/Thorlabs/Scientific Imaging/DCx Camera Support/Develop/DotNet/uc480DotNet.dll"/>
 			<Item Name="Uninit Communication.vi" Type="VI" URL="../../../Desktop/ESP300/ESP300 Interface/Uninit Communication.vi"/>
-			<Item Name="Wait For Motion Stop.vi" Type="VI" URL="../subVIs/Newport/Newport ESP301/Flow Control &amp; Sequencing/Wait For Motion Stop.vi"/>
 			<Item Name="Write2LogFile.vi" Type="VI" URL="../subVIs/FilePath, Save/Write2LogFile.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
