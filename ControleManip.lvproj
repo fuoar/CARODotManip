@@ -81,6 +81,7 @@
 		<Item Name="GlobalTest.vi" Type="VI" URL="../subVIs/Globals/GlobalTest.vi"/>
 		<Item Name="subVI_FitLorentzien.vi" Type="VI" URL="../subVIs/DataManipulation/subVI_FitLorentzien.vi"/>
 		<Item Name="InstrumentsOn.vi" Type="VI" URL="../subVIs/Globals/InstrumentsOn.vi"/>
+		<Item Name="InstrumentReferences.vi" Type="VI" URL="../subVIs/Globals/InstrumentReferences.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="TL4000 Beep.vi" Type="VI" URL="/&lt;instrlib&gt;/TL4000/TL4000.llb/TL4000 Beep.vi"/>
