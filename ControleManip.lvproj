@@ -82,6 +82,10 @@
 		<Item Name="subVI_FitLorentzien.vi" Type="VI" URL="../subVIs/DataManipulation/subVI_FitLorentzien.vi"/>
 		<Item Name="InstrumentsOn.vi" Type="VI" URL="../subVIs/Globals/InstrumentsOn.vi"/>
 		<Item Name="InstrumentReferences.vi" Type="VI" URL="../subVIs/Globals/InstrumentReferences.vi"/>
+		<Item Name="SubTestEConv.vi" Type="VI" URL="../subVIs/SubTestEConv.vi"/>
+		<Item Name="myMax.vi" Type="VI" URL="../subVIs/myMax.vi"/>
+		<Item Name="AxxXY.vi" Type="VI" URL="../subVIs/AxxXY.vi"/>
+		<Item Name="2Cnts.vi" Type="VI" URL="../subVIs/2Cnts.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="TL4000 Beep.vi" Type="VI" URL="/&lt;instrlib&gt;/TL4000/TL4000.llb/TL4000 Beep.vi"/>
