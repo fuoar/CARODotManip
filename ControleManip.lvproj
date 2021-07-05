@@ -1,5 +1,10 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="19008000">
+	<Property Name="CCSymbols" Type="Str"></Property>
+	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Property Name="NI.Project.Description" Type="Str">Contrôle de la manip de micro-photoluminescence de Carole Diederichs au Laboratoire de Physique de l'Ecole Normale Supérieure
+
+Conçu et codé par Mohamed-Raouf Amara</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
@@ -86,6 +91,7 @@
 		<Item Name="myMax.vi" Type="VI" URL="../subVIs/myMax.vi"/>
 		<Item Name="AxxXY.vi" Type="VI" URL="../subVIs/AxxXY.vi"/>
 		<Item Name="2Cnts.vi" Type="VI" URL="../subVIs/2Cnts.vi"/>
+		<Item Name="V2um.vi" Type="VI" URL="../subVIs/V2um.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="TL4000 Beep.vi" Type="VI" URL="/&lt;instrlib&gt;/TL4000/TL4000.llb/TL4000 Beep.vi"/>
