@@ -92,6 +92,7 @@ Conçu et codé par Mohamed-Raouf Amara</Property>
 		<Item Name="AxxXY.vi" Type="VI" URL="../subVIs/AxxXY.vi"/>
 		<Item Name="2Cnts.vi" Type="VI" URL="../subVIs/2Cnts.vi"/>
 		<Item Name="V2um.vi" Type="VI" URL="../subVIs/V2um.vi"/>
+		<Item Name="Write2Markdown.vi" Type="VI" URL="../subVIs/Write2Markdown.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="TL4000 Beep.vi" Type="VI" URL="/&lt;instrlib&gt;/TL4000/TL4000.llb/TL4000 Beep.vi"/>
