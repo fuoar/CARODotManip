@@ -93,6 +93,13 @@ Conçu et codé par Mohamed-Raouf Amara</Property>
 		<Item Name="2Cnts.vi" Type="VI" URL="../subVIs/2Cnts.vi"/>
 		<Item Name="V2um.vi" Type="VI" URL="../subVIs/V2um.vi"/>
 		<Item Name="Write2Markdown.vi" Type="VI" URL="../subVIs/Write2Markdown.vi"/>
+		<Item Name="SampleDetails.vi" Type="VI" URL="../subVIs/SampleDetails.vi"/>
+		<Item Name="Path2Obs.vi" Type="VI" URL="../subVIs/Path2Obs.vi"/>
+		<Item Name="AutoScreenShot.vi" Type="VI" URL="../subVIs/AutoScreenShot.vi"/>
+		<Item Name="WriteSave2MarkdownWithImages.vi" Type="VI" URL="../subVIs/WriteSave2MarkdownWithImages.vi"/>
+		<Item Name="MatlabCode.vi" Type="VI" URL="../subVIs/MatlabCode.vi"/>
+		<Item Name="BuildHeader.vi" Type="VI" URL="../subVIs/Markdown/BuildHeader.vi"/>
+		<Item Name="TabVisibility.vi" Type="VI" URL="../subVIs/TabVisibility.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="TL4000 Beep.vi" Type="VI" URL="/&lt;instrlib&gt;/TL4000/TL4000.llb/TL4000 Beep.vi"/>
@@ -579,6 +586,13 @@ Conçu et codé par Mohamed-Raouf Amara</Property>
 				<Item Name="Get Waveform Time Array.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/Get Waveform Time Array.vi"/>
 				<Item Name="subCurveFitting.vi" Type="VI" URL="/&lt;vilib&gt;/express/express analysis/CurveFittingBlock.llb/subCurveFitting.vi"/>
 				<Item Name="Dynamic To Waveform Array.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/transition.llb/Dynamic To Waveform Array.vi"/>
+				<Item Name="Check File Permissions.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check File Permissions.vi"/>
+				<Item Name="Directory of Top Level VI.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Directory of Top Level VI.vi"/>
+				<Item Name="Check Path.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check Path.vi"/>
+				<Item Name="Check Color Table Size.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check Color Table Size.vi"/>
+				<Item Name="Check Data Size.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check Data Size.vi"/>
+				<Item Name="Write PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Write PNG File.vi"/>
+				<Item Name="ex_BuildTextVarProps.ctl" Type="VI" URL="/&lt;vilib&gt;/express/express output/BuildTextBlock.llb/ex_BuildTextVarProps.ctl"/>
 			</Item>
 			<Item Name="ANC350v4_Amplitude.vi" Type="VI" URL="../subVIs/Attocubes/ANC350_4.2.4_LV16.llb/ANC350v4_Amplitude.vi"/>
 			<Item Name="ANC350v4_ErrorHandler.vi" Type="VI" URL="../subVIs/Attocubes/ANC350_4.2.4_LV16.llb/ANC350v4_ErrorHandler.vi"/>
