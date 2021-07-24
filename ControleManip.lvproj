@@ -76,30 +76,32 @@ Conçu et codé par Mohamed-Raouf Amara</Property>
 			<Item Name="XYIntGraph.vi" Type="VI" URL="../subVIs/DataManipulation/XYIntGraph.vi"/>
 			<Item Name="LightField Automation.lvclass" Type="LVClass" URL="../subVIs/Light Field/lightfield-automation-labview/LightField Automation.lvclass"/>
 			<Item Name="Newport ESP301.lvlib" Type="Library" URL="../subVIs/Newport/Newport ESP301/Newport ESP301.lvlib"/>
+			<Item Name="ExcWL2LaserrColor.vi" Type="VI" URL="../subVIs/ExcWL2LaserrColor.vi"/>
+			<Item Name="WriteSave2MarkdownWithImages.vi" Type="VI" URL="../subVIs/WriteSave2MarkdownWithImages.vi"/>
+			<Item Name="CreatePath&amp;FileName_noParamsinFileName.vi" Type="VI" URL="../subVIs/FilePath, Save/CreatePath&amp;FileName_noParamsinFileName.vi"/>
+			<Item Name="subVI_Mono2Go2Posv2.vi" Type="VI" URL="../subVIs/Newport/Newport ESP300/ESP300 Interface/subVI_Mono2Go2Posv2.vi"/>
+			<Item Name="subVI_Init&amp;GetParams.vi" Type="VI" URL="../subVIs/Newport/Newport ESP300/ESP300 Interface/subVI_Init&amp;GetParams.vi"/>
+			<Item Name="Control 1.ctl" Type="VI" URL="../subVIs/Controls/Control 1.ctl"/>
+			<Item Name="FitLorentzien.vi" Type="VI" URL="../subVIs/DataManipulation/FitLorentzien.vi"/>
+			<Item Name="GlobalTest.vi" Type="VI" URL="../subVIs/Globals/GlobalTest.vi"/>
+			<Item Name="subVI_FitLorentzien.vi" Type="VI" URL="../subVIs/DataManipulation/subVI_FitLorentzien.vi"/>
+			<Item Name="InstrumentsOn.vi" Type="VI" URL="../subVIs/Globals/InstrumentsOn.vi"/>
+			<Item Name="InstrumentReferences.vi" Type="VI" URL="../subVIs/Globals/InstrumentReferences.vi"/>
+			<Item Name="SubTestEConv.vi" Type="VI" URL="../subVIs/SubTestEConv.vi"/>
+			<Item Name="myMax.vi" Type="VI" URL="../subVIs/myMax.vi"/>
+			<Item Name="AxxXY.vi" Type="VI" URL="../subVIs/AxxXY.vi"/>
+			<Item Name="2Cnts.vi" Type="VI" URL="../subVIs/2Cnts.vi"/>
+			<Item Name="V2um.vi" Type="VI" URL="../subVIs/V2um.vi"/>
+			<Item Name="Write2Markdown.vi" Type="VI" URL="../subVIs/Write2Markdown.vi"/>
+			<Item Name="SampleDetails.vi" Type="VI" URL="../subVIs/SampleDetails.vi"/>
+			<Item Name="Path2Obs.vi" Type="VI" URL="../subVIs/Path2Obs.vi"/>
+			<Item Name="AutoScreenShot.vi" Type="VI" URL="../subVIs/AutoScreenShot.vi"/>
+			<Item Name="MatlabCode.vi" Type="VI" URL="../subVIs/MatlabCode.vi"/>
+			<Item Name="BuildHeader.vi" Type="VI" URL="../subVIs/Markdown/BuildHeader.vi"/>
+			<Item Name="TabVisibility.vi" Type="VI" URL="../subVIs/TabVisibility.vi"/>
+			<Item Name="CheckStopAndReset.vi" Type="VI" URL="../subVIs/Newport/Newport ESP300/ESP300 Interface/Support/CheckStopAndReset.vi"/>
 		</Item>
 		<Item Name="Controle_Manip_Main_GUI.vi" Type="VI" URL="../Controle_Manip_Main_GUI.vi"/>
-		<Item Name="CreatePath&amp;FileName_noParamsinFileName.vi" Type="VI" URL="../subVIs/FilePath, Save/CreatePath&amp;FileName_noParamsinFileName.vi"/>
-		<Item Name="subVI_Mono2Go2Posv2.vi" Type="VI" URL="../subVIs/Newport/Newport ESP300/ESP300 Interface/subVI_Mono2Go2Posv2.vi"/>
-		<Item Name="subVI_Init&amp;GetParams.vi" Type="VI" URL="../subVIs/Newport/Newport ESP300/ESP300 Interface/subVI_Init&amp;GetParams.vi"/>
-		<Item Name="Control 1.ctl" Type="VI" URL="../subVIs/Controls/Control 1.ctl"/>
-		<Item Name="FitLorentzien.vi" Type="VI" URL="../subVIs/DataManipulation/FitLorentzien.vi"/>
-		<Item Name="GlobalTest.vi" Type="VI" URL="../subVIs/Globals/GlobalTest.vi"/>
-		<Item Name="subVI_FitLorentzien.vi" Type="VI" URL="../subVIs/DataManipulation/subVI_FitLorentzien.vi"/>
-		<Item Name="InstrumentsOn.vi" Type="VI" URL="../subVIs/Globals/InstrumentsOn.vi"/>
-		<Item Name="InstrumentReferences.vi" Type="VI" URL="../subVIs/Globals/InstrumentReferences.vi"/>
-		<Item Name="SubTestEConv.vi" Type="VI" URL="../subVIs/SubTestEConv.vi"/>
-		<Item Name="myMax.vi" Type="VI" URL="../subVIs/myMax.vi"/>
-		<Item Name="AxxXY.vi" Type="VI" URL="../subVIs/AxxXY.vi"/>
-		<Item Name="2Cnts.vi" Type="VI" URL="../subVIs/2Cnts.vi"/>
-		<Item Name="V2um.vi" Type="VI" URL="../subVIs/V2um.vi"/>
-		<Item Name="Write2Markdown.vi" Type="VI" URL="../subVIs/Write2Markdown.vi"/>
-		<Item Name="SampleDetails.vi" Type="VI" URL="../subVIs/SampleDetails.vi"/>
-		<Item Name="Path2Obs.vi" Type="VI" URL="../subVIs/Path2Obs.vi"/>
-		<Item Name="AutoScreenShot.vi" Type="VI" URL="../subVIs/AutoScreenShot.vi"/>
-		<Item Name="WriteSave2MarkdownWithImages.vi" Type="VI" URL="../subVIs/WriteSave2MarkdownWithImages.vi"/>
-		<Item Name="MatlabCode.vi" Type="VI" URL="../subVIs/MatlabCode.vi"/>
-		<Item Name="BuildHeader.vi" Type="VI" URL="../subVIs/Markdown/BuildHeader.vi"/>
-		<Item Name="TabVisibility.vi" Type="VI" URL="../subVIs/TabVisibility.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="TL4000 Beep.vi" Type="VI" URL="/&lt;instrlib&gt;/TL4000/TL4000.llb/TL4000 Beep.vi"/>
@@ -593,6 +595,7 @@ Conçu et codé par Mohamed-Raouf Amara</Property>
 				<Item Name="Check Data Size.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check Data Size.vi"/>
 				<Item Name="Write PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Write PNG File.vi"/>
 				<Item Name="ex_BuildTextVarProps.ctl" Type="VI" URL="/&lt;vilib&gt;/express/express output/BuildTextBlock.llb/ex_BuildTextVarProps.ctl"/>
+				<Item Name="subDisplayMessage.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/DisplayMessageBlock.llb/subDisplayMessage.vi"/>
 			</Item>
 			<Item Name="ANC350v4_Amplitude.vi" Type="VI" URL="../subVIs/Attocubes/ANC350_4.2.4_LV16.llb/ANC350v4_Amplitude.vi"/>
 			<Item Name="ANC350v4_ErrorHandler.vi" Type="VI" URL="../subVIs/Attocubes/ANC350_4.2.4_LV16.llb/ANC350v4_ErrorHandler.vi"/>
