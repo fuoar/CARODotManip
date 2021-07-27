@@ -694,6 +694,7 @@ Conçu et codé par Mohamed-Raouf Amara</Property>
 			<Item Name="QVelocity.vi" Type="VI" URL="../subVIs/Newport/Newport ESP300/ESP300 Interface/Commands/QVelocity.vi"/>
 			<Item Name="MotorPos2WL.vi" Type="VI" URL="../subVIs/Newport/MotorPos2WL.vi"/>
 			<Item Name="MotorWL2Pos.vi" Type="VI" URL="../subVIs/Newport/MotorWL2Pos.vi"/>
+			<Item Name="matscript.dll" Type="Document"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
