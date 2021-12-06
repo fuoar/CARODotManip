@@ -102,6 +102,13 @@ Conçu et codé par Mohamed-Raouf Amara</Property>
 			<Item Name="CheckStopAndReset.vi" Type="VI" URL="../subVIs/Newport/Newport ESP300/ESP300 Interface/Support/CheckStopAndReset.vi"/>
 		</Item>
 		<Item Name="Controle_Manip_Main_GUI.vi" Type="VI" URL="../Controle_Manip_Main_GUI.vi"/>
+		<Item Name="submove.vi" Type="VI" URL="../../../Desktop/Photon etc/PHySpec/labview examples/submove.vi"/>
+		<Item Name="listandgetdeviceinterface.vi" Type="VI" URL="../../../Desktop/Photon etc/PHySpec/labview examples/listandgetdeviceinterface.vi"/>
+		<Item Name="LLTF_full.vi" Type="VI" URL="../../../Desktop/Photon etc/PHySpec/labview examples/LLTF_full.vi"/>
+		<Item Name="xdevice.vi" Type="VI" URL="../../../../../Program Files (x86)/Photon etc/PHySpec/labview examples/xdevice.vi"/>
+		<Item Name="listandgetdeviceinterface.vi" Type="VI" URL="../subVIs/Photon etc/labview examples/listandgetdeviceinterface.vi"/>
+		<Item Name="testmove.vi" Type="VI" URL="../subVIs/Photon etc/labview examples/testmove.vi"/>
+		<Item Name="KCube_IsActiveAndActivate.vi" Type="VI" URL="../subVIs/Kinesis/KCube_IsActiveAndActivate.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="TL4000 Beep.vi" Type="VI" URL="/&lt;instrlib&gt;/TL4000/TL4000.llb/TL4000 Beep.vi"/>
@@ -596,6 +603,14 @@ Conçu et codé par Mohamed-Raouf Amara</Property>
 				<Item Name="Write PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Write PNG File.vi"/>
 				<Item Name="ex_BuildTextVarProps.ctl" Type="VI" URL="/&lt;vilib&gt;/express/express output/BuildTextBlock.llb/ex_BuildTextVarProps.ctl"/>
 				<Item Name="subDisplayMessage.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/DisplayMessageBlock.llb/subDisplayMessage.vi"/>
+				<Item Name="Create ActiveX Event Queue.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/ax-events.llb/Create ActiveX Event Queue.vi"/>
+				<Item Name="Wait types.ctl" Type="VI" URL="/&lt;vilib&gt;/Platform/ax-events.llb/Wait types.ctl"/>
+				<Item Name="Create Error Clust.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/ax-events.llb/Create Error Clust.vi"/>
+				<Item Name="Wait On ActiveX Event.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/ax-events.llb/Wait On ActiveX Event.vi"/>
+				<Item Name="EventData.ctl" Type="VI" URL="/&lt;vilib&gt;/Platform/ax-events.llb/EventData.ctl"/>
+				<Item Name="OccFireType.ctl" Type="VI" URL="/&lt;vilib&gt;/Platform/ax-events.llb/OccFireType.ctl"/>
+				<Item Name="Destroy ActiveX Event Queue.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/ax-events.llb/Destroy ActiveX Event Queue.vi"/>
+				<Item Name="Beep.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/Beep.vi"/>
 			</Item>
 			<Item Name="ANC350v4_Amplitude.vi" Type="VI" URL="../subVIs/Attocubes/ANC350_4.2.4_LV16.llb/ANC350v4_Amplitude.vi"/>
 			<Item Name="ANC350v4_ErrorHandler.vi" Type="VI" URL="../subVIs/Attocubes/ANC350_4.2.4_LV16.llb/ANC350v4_ErrorHandler.vi"/>
@@ -694,6 +709,10 @@ Conçu et codé par Mohamed-Raouf Amara</Property>
 			<Item Name="QVelocity.vi" Type="VI" URL="../subVIs/Newport/Newport ESP300/ESP300 Interface/Commands/QVelocity.vi"/>
 			<Item Name="MotorPos2WL.vi" Type="VI" URL="../subVIs/Newport/MotorPos2WL.vi"/>
 			<Item Name="MotorWL2Pos.vi" Type="VI" URL="../subVIs/Newport/MotorWL2Pos.vi"/>
+			<Item Name="newinit.vi" Type="VI" URL="../../../Desktop/Photon etc/PHySpec/labview examples/newinit.vi"/>
+			<Item Name="sigError_EventCallback.vi" Type="VI" URL="../../../Desktop/Photon etc/PHySpec/labview examples/sigError_EventCallback.vi"/>
+			<Item Name="testmove.vi" Type="VI" URL="../../../Desktop/Photon etc/PHySpec/labview examples/testmove.vi"/>
+			<Item Name="sigError_EventCallback.vi" Type="VI" URL="../../../../../Program Files (x86)/Photon etc/PHySpec/labview examples/sigError_EventCallback.vi"/>
 			<Item Name="matscript.dll" Type="Document"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
