@@ -109,6 +109,11 @@ Conçu et codé par Mohamed-Raouf Amara</Property>
 		<Item Name="listandgetdeviceinterface.vi" Type="VI" URL="../subVIs/Photon etc/labview examples/listandgetdeviceinterface.vi"/>
 		<Item Name="testmove.vi" Type="VI" URL="../subVIs/Photon etc/labview examples/testmove.vi"/>
 		<Item Name="KCube_IsActiveAndActivate.vi" Type="VI" URL="../subVIs/Kinesis/KCube_IsActiveAndActivate.vi"/>
+		<Item Name="WorkingSimplexonDummyData.vi" Type="VI" URL="../subVIs/AutoOptimizePos/WorkingSimplexonDummyData.vi"/>
+		<Item Name="FSMPos_GetMeasurement_Test.vi" Type="VI" URL="../subVIs/AutoOptimizePos/FSMPos_GetMeasurement_Test.vi"/>
+		<Item Name="myMaxAPDs.vi" Type="VI" URL="../subVIs/myMaxAPDs.vi"/>
+		<Item Name="TestXYGraph_MultiplotSinglePlot.vi" Type="VI" URL="../subVIs/TestXYGraph_MultiplotSinglePlot.vi"/>
+		<Item Name="Controle_Manip_Main_GUI_WorkingBackup_211222.vi" Type="VI" URL="../Controle_Manip_Main_GUI_WorkingBackup_211222.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="TL4000 Beep.vi" Type="VI" URL="/&lt;instrlib&gt;/TL4000/TL4000.llb/TL4000 Beep.vi"/>
@@ -611,6 +616,7 @@ Conçu et codé par Mohamed-Raouf Amara</Property>
 				<Item Name="OccFireType.ctl" Type="VI" URL="/&lt;vilib&gt;/Platform/ax-events.llb/OccFireType.ctl"/>
 				<Item Name="Destroy ActiveX Event Queue.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/ax-events.llb/Destroy ActiveX Event Queue.vi"/>
 				<Item Name="Beep.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/Beep.vi"/>
+				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
 			</Item>
 			<Item Name="ANC350v4_Amplitude.vi" Type="VI" URL="../subVIs/Attocubes/ANC350_4.2.4_LV16.llb/ANC350v4_Amplitude.vi"/>
 			<Item Name="ANC350v4_ErrorHandler.vi" Type="VI" URL="../subVIs/Attocubes/ANC350_4.2.4_LV16.llb/ANC350v4_ErrorHandler.vi"/>
@@ -713,7 +719,6 @@ Conçu et codé par Mohamed-Raouf Amara</Property>
 			<Item Name="sigError_EventCallback.vi" Type="VI" URL="../../../Desktop/Photon etc/PHySpec/labview examples/sigError_EventCallback.vi"/>
 			<Item Name="testmove.vi" Type="VI" URL="../../../Desktop/Photon etc/PHySpec/labview examples/testmove.vi"/>
 			<Item Name="sigError_EventCallback.vi" Type="VI" URL="../../../../../Program Files (x86)/Photon etc/PHySpec/labview examples/sigError_EventCallback.vi"/>
-			<Item Name="matscript.dll" Type="Document"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
