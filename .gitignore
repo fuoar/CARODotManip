@@ -8,7 +8,6 @@
 *.dll
 *.so
 *.dylib
-
 # Executables
 *.exe
 
