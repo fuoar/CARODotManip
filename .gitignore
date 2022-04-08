@@ -1,7 +1,7 @@
 # Libraries
 *.lvlibp
 *.llb
-
+SyncToy*.dat
 # Shared objects (inc. Windows DLLs)
 .*
 !/.gitignore
@@ -10,8 +10,8 @@
 *.dylib
 # Executables
 *.exe
-
 # Metadata
 *.aliases
 *.lvlps
 .cache/
+Data.log
