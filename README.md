@@ -1,4 +1,21 @@
-# Controle_Manip_2020
-LabVIEW control of GH13 setup aka CARDOTManip
+## ![Controle_Manip_2020](https://github.com/fuoar/CARODotManip/wiki)
+LabVIEW control of GH13 setup aka CARODOTManip
 
-![GH13 2020-03-01](https://github.com/fuoar/Controle_Manip_2020/blob/master/gfx/manip_gh13_200301.svg)
+![setup](https://raw.githubusercontent.com/wiki/fuoar/CARODotManip/images/setup.jpg)
+
+[**Getting started**](https://github.com/fuoar/CARODotManip/wiki/Getting-started)
+
+**Understand CARODotManip**
+* [Platform](https://github.com/fuoar/CARODotManip/wiki/Platform)
+* [Experiments](https://github.com/fuoar/CARODotManip/wiki/Experiments)
+* [Code principles](https://github.com/fuoar/CARODotManip/wiki/Code-principles)
+
+**Use CARODotManip**
+* [Startup](https://github.com/fuoar/CARODotManip/wiki/Startup)
+* [NC localisation detail](https://github.com/fuoar/CARODotManip/wiki/NC-localisation-detail)
+* [Measure](https://github.com/fuoar/CARODotManip/wiki/Measure)
+* [Save data](https://github.com/fuoar/CARODotManip/wiki/Save-data)
+
+**Contribute to CARODotManip**
+* [Add a device to control](https://github.com/fuoar/CARODotManip/wiki/Add-a-device-to-control)
+* [Add an experiment](https://github.com/fuoar/CARODotManip/wiki/Add-an-experiment)
