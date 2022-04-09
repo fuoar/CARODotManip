@@ -1,4 +1,4 @@
-## ![Controle_Manip_2020](https://github.com/fuoar/CARODotManip/wiki)
+## ![CARODotManip](https://github.com/fuoar/CARODotManip/wiki)
 LabVIEW control of GH13 setup aka CARODOTManip
 
 ![setup](https://raw.githubusercontent.com/wiki/fuoar/CARODotManip/images/setup.jpg)
